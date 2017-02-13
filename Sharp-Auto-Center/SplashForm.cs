@@ -19,8 +19,12 @@ namespace Sharp_Auto_Center
 
         private void SplashFormTimer_Tick(object sender, EventArgs e)
         {
-            this.Enabled = false;
-            this.Hide();
+            /// Instantiate the form
+            SharpAutoCenterForm sharpAutoCenterForm = new SharpAutoCenterForm();
+            this.SplashFormTimer.Enabled = false;
+            sharpAutoCenterForm.Show();
+            this.Hide();           
+            
         }
     }
 }

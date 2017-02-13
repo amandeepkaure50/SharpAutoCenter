@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace Sharp_Auto_Center
 {
+   
     public static class Program
     {
         /// declared public static form -Application GLOBAL

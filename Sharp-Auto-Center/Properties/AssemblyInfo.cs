@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Sharp_Auto_Center")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("The New And Used Mobiles are the company which sells the old and new car. this program developed for the calculation of Amount.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("New And Used Mobiles.")]
 [assembly: AssemblyProduct("Sharp_Auto_Center")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
